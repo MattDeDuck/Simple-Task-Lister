@@ -1,6 +1,6 @@
 ## Simple Task Lister
 
-A little program I worked on to help me get famliar with PyQT5
+A little program I worked on to help me get famliar with Tkinter
 
 ## Instructions
 
